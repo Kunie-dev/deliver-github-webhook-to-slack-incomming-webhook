@@ -1,0 +1,15 @@
+{
+  "name": "deliver-github-webhook-to-slack-incomming-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^6.1.0"
+  }
+}
